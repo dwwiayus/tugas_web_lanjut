@@ -1,0 +1,14 @@
+{"access_token":"1|zPJdkPU3m6h2Mt0lVaAomqioE9fbHyKMA0QQtCzXb03acfb6","token_type":"Bearer"}
+
+{
+    "name": "Ayuk",
+    "kelas": "2A",
+    "umur": 19
+}
+
+{"access_token":"2|XRH6F1vwSdsJ2XkEoLZjTbB8hwnEcsTGywPS69lnf881c7d0","token_type":"Bearer"}
+
+{
+    "access_token": "3|jZAApbrd3q5RUWtuPA1NSpo5XK7WxZYrvG2RForM39d6f287",
+    "token_type": "Bearer"
+}
